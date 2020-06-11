@@ -8,7 +8,7 @@ OMOs live a fullfilling and thriving life in absolute abundance, with caring rel
 
 While studying and observing the daily habits of the OMO, we learned that they embrace the power of contineous change through a process we named the OMO-Circle. The OMO-Circle is an repetitive value and wealth generating machine, with an integrated process to incrementially update its own efficency. Recent observations show that OMO's seem to thrive in joy by just sharing five of their most precious intrinsic and well define goals for life with other OMO's. Magically those goals autodeploy into clear and self-adapting pathway's of challenges with longterm vision. Let's have a look into the weeklife of the OMO.
 
-## The Omo-Circle
+## The Omo-Circle Process
 More to be documented once we get the chance of a clearer understanding of this process. 
 
 ### Monday
