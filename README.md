@@ -17,10 +17,9 @@ Monday morning OMO's have a look at their pathway and this weeks challenge.
 
 ### Tuesday
 - solution generating, prototyping, inspiring, copy and paste
-- voting by feet by following your nose
 
 ### Wednesday
-- Feedback and testing of Prototypes
+- Feedback and testing of Prototypes and assumptions plus consolidating the best options into one solution
 
 ### Thursday
 - Implement the most promising prototypes
