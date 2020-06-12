@@ -48,3 +48,4 @@ coming soon
 - open source
 - DAOs
 - stigmergy
+- fractals
