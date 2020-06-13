@@ -53,7 +53,7 @@ Find the best features and the worst no-go's
 **The only rule**.
 - Getting things done
 
-### Pivot Friday
+### Reviewing Friday
 **Where questions**.
 - Where are we now?
 - Where do we go next?
