@@ -35,7 +35,7 @@ Its all about generating and creating as many ideas and prototypes as possible f
 **The only rule**.
 OMO's are grateful for any seed of newly born ideas or prototypes and never kill the vibe
 
-### Feedback Wednesday
+### Testing Wednesday
 **What questions**.
 - What are the best prototypes
 - What is good 
