@@ -19,47 +19,53 @@ Let's have a look into the weeklife of the OMO, or the so called **o**pen **m**i
 
 Each week OMO's focus most of their time on tackling exactly one challenge in form of asking a question; f.e. How can we optimze our collaboration processes?
 
-### Seeking Monday
-**Why questions**
+### Seeking Monday. 
+**Why questions**.
 - Why does an OMO want to do this?
-**Goals**
+**Goals**.
 OMO's gather a deep understanding of the gains and pains why solving a challenge matters. Its all about knowledge, learning, studying and teaching. OMO's freely involve as many teachers and students into this step.  
-**The only rule** 
-OMO's learn through asking questions and never talk back with answers or statements. 
+**The only rule**.
+OMO's learn through asking questions and never talk back with their opinions 
 
-### Hacking Tuesday
-**How questions**
+### HandsOn Tuesday
+**How questions**.
 - How can we do this?
-**Goals**
+**Goals**.
 Its all about generating and creating as many ideas and prototypes as possible feel free to copy and reuse anything from others
-**The only rule**
+**The only rule**.
 OMO's are grateful for any seed of newly born ideas or prototypes and never kill the vibe
 
 ### Feedback Wednesday
-**What questions**
+**What questions**.
 - What are the best prototypes
 - What is good 
 - What is bad
-**Goals**
-- Feedback and testing of Prototypes and assumptions plus 
-**The only rule**
+**Goals**.
+- Feedback and testing of prototypes and assumptions
+**The only rule**.
+Find the best features and the worst no-go's
 
-### Improving Thursday
-**Who questions**
+### Proposal Thursday
+**Who questions**.
 - Who can help with the implementation 
-**Goals**
+**Goals**.
 - Consolidate and implement the best feedback and prototypes into one single solution proposal
+**The only rule**.
+- Getting things done
+
+### Pivot Friday
+**Where questions**.
+- Where are we now?
+- Where do we go next?
+**Goals**. 
+- Accept or reject the implementation proposal
+- Rearange or update your challenges for the future
+**The only rule**.
+- Choose the next challenges based on reaching your 3 months challenge
+
+### Recreation Weekend
 **The only rule**
-
-### Voting Friday
-WIP
-Make a pull-request for your implementation
-- update the OCM process
-- update of the priorisation of the future pathway challenges
-- vote on pull-requests
-
-### Weekend
-- relax and enjoy the personal, organisational and global growth of the abundant earth you are creating 
+- relax and enjoy the moment
 
 ## The omo-circle-methodology
 coming soon
