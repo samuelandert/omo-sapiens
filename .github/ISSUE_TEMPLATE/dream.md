@@ -46,9 +46,9 @@ ___
 ### How do you incentivize the new experience and behaviour? Specify clear potential actions, which will enable you to grow closer to your dream. 
 _Try to generate the full spectrum of ideas and possibilities from as many perspectives as possible - the more the better. Be open about every additional idea and feedback and never break the magic seed of inspiration_
 
-#### Ideas: 
 
 **Idea A** 
+
 _Describe the experience how your actor is interacting inside your imagined world_
 
 
@@ -56,6 +56,7 @@ _Feedback on the idea_
 
 
 **Idea B** 
+
 _Describe the experience how your actor is interacting inside your imagined world_
 
 
@@ -63,6 +64,7 @@ _Feedback on the idea_
 
 
 **Idea C**
+
 _Describe the experience how your actor is interacting inside your imagined world_
 
 
@@ -75,7 +77,6 @@ ___
 ### What prototypes are able to trigger and satisfy the intended experience and behaviors in the best ways? 
 _Try to define the fastest, cheapest and most promising way to validate and test your assumptions. This is all about hands on, everything is allowed, be creative, mockups, präsentations, games, interviews, polls, websites etc, the more interactive the better_
 
-#### Prototypes
 
 **Prototype A**
 
@@ -111,13 +112,19 @@ _Try to judge the implemented proposal based on its ability to incrementally imp
 _Try to document as detailed as possible why the proposal was accepted or declined in order to become continueosly better. _
 
 **Alice**
-- [x] Accepted - because ...
-- [] Rejected - because ...
+
+[x] Accepted - because ...
+
+[x] Rejected - because ...
 
 **Bob** 
-- [] Accepted - because ...
-- [x] Rejected - because ...
+
+[x] Accepted - because ...
+
+[x] Rejected - because ...
 
 **Charly** 
-- [x] Accepted - because ...
-- [] Rejected - because ...
+
+[x] Accepted - because ...
+
+[x] Rejected - because ...
