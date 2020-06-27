@@ -2,7 +2,7 @@
 name: Inspire new dream
 about: this is the default omo-sapiens process to solve dream challenges
 title: "My dream is .. "
-labels: challenge
+labels: dream
 assignees: ''
 
 ---
